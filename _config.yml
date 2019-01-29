@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Spooky Action
+tagline:          'Spooky Action ART'
+description:      'Bob Ross meets Fantasia in this live drawing musical experience. Comics artist <a href="https://www.elkpapa.com/" target="_blank">Elk Paauw</a> and composer <a href="https://andrewolmstead.com" target="_blank">Andrew Olmstead</a> combine mediums to tell stories.'
+url:              http://spookyaction.art
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Andrew Olmstead'
+  url:            https://andrewolmstead.com
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/spooky-action-blog
