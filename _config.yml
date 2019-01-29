@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Spooky Action
 tagline:          'Spooky Action ART'
 description:      'Bob Ross meets Fantasia in this live drawing musical experience. Comics artist <a href="https://www.elkpapa.com/" target="_blank">Elk Paauw</a> and composer <a href="https://andrewolmstead.com" target="_blank">Andrew Olmstead</a> combine mediums to tell stories.'
-url:              http://spookyaction.art
-baseurl:          /
+url:              https://aolmstead.github.io/spooky-action-blog/
+baseurl:          https://aolmstead.github.io/spooky-action-blog/
 
 author:
   name:           'Andrew Olmstead'
