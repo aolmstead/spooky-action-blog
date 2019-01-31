@@ -21,4 +21,4 @@ It's an honor to be sharing the stage with the venerable Sun Ra Arkestra. When I
 [== event link ==](https://www.facebook.com/events/342004379865176/)
 
 ![Spooky Action on stage](https://aolmstead.github.io/spooky-action-blog/public/blog/space-is-the-place-2019.jpg)
-Rendering a portrait of Marshall Allen. Photo: [Joel Chico Guevara](https://www.facebook.com/joelchico47/posts/10218999150708570)
+Rendering a portrait of Marshall Allen. _Courtesy of [Joel Chico Guevara](https://www.facebook.com/joelchico47/posts/10218999150708570)_
