@@ -16,7 +16,8 @@ It's an honor to be sharing the stage with the venerable Sun Ra Arkestra. When I
 > Mathematically precise are they:  
 >  The tone-scientists.
 >
-> _The Immeasurable Equation: The Collected Poetry and Prose, by Sun Ra_
+> _The Immeasurable Equation: The Collected Poetry and Prose  
+> by Sun Ra_
 
 [== event link ==](https://www.facebook.com/events/342004379865176/)
 
