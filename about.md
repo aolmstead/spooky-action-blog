@@ -3,10 +3,7 @@ layout: page
 title: About
 ---
 
-![Elk and Andrew floating in spacetime](https://aolmstead.github.io/spooky-action-blog/public/about-graphic.jpg)
-
-## Art, Music, and Stories
-What we do  
+We do art, music, and stories  
 Currently based in Chicago  
 Met at the [Racer Sessions](http://www.racersessions.com/)  
 Don't include personal bio stuff here, personal pages linked elsewhere
@@ -20,3 +17,7 @@ Don't include personal bio stuff here, personal pages linked elsewhere
 [2]: https://andrewolmstead.com/
 [3]: https://andrewolmstead.com/
 [4]: https://andrewolmstead.com/
+
+<br>
+
+![Elk and Andrew floating in spacetime](https://aolmstead.github.io/spooky-action-blog/public/about-graphic.jpg)
